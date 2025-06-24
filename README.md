@@ -2,4 +2,4 @@
 
 ## Description 
 
-This application demonstrates the work with TV channels using android TIF (TV Input Framework)
+This repository contains a sample Android TV application that demonstrates the integration with the TV Input Framework (TIF)
